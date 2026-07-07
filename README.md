@@ -6,6 +6,20 @@
 
 한국 팝업스토어와 문화 체험은 외국인 관광객의 관심이 높지만, 실제 예약 과정에서는 언어 장벽, 현장 대기, 분산된 정보 탐색 비용이 큽니다. TripPop은 이 문제를 예약 도메인으로 좁히고, 이벤트 조회부터 예약 생성까지의 흐름을 MSA와 클라우드 인프라 위에서 구현한 팀 프로젝트입니다.
 
+> 이 저장소는 TripPop 팀 프로젝트의 포트폴리오 공개용 스냅샷입니다.
+> 민감한 운영 이력과 Git 히스토리는 제거했으며, 실제 협업은 별도 Team/Private 저장소에서 진행했습니다.
+
+## Team
+
+| 이름 | GitHub | 담당 영역 |
+| --- | --- | --- |
+| 이성호 | [@github-placeholder-sungho](https://github.com/github-placeholder-sungho) | 네트워크, VPC, Terraform, 인프라 설계 |
+| 성지수 | [@github-placeholder-jisu](https://github.com/github-placeholder-jisu) | PM, 모니터링, 비용, 운영 |
+| 김건호 | [@github-placeholder-geonho](https://github.com/github-placeholder-geonho) | EKS, Kubernetes, 예약 서비스 |
+| 김재백 | [@github-placeholder-jaebaek](https://github.com/github-placeholder-jaebaek) | 이벤트/관리자 서비스, 다국어 |
+| 김채아 | [@github-placeholder-chaeah](https://github.com/github-placeholder-chaeah) | CI/CD, 프론트엔드 |
+| 이창하 | [@github-placeholder-changha](https://github.com/github-placeholder-changha) | DB, IAM, 보안 |
+
 ## What We Built
 
 | 기능 | 설명 |
